@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/NewBoard/static/css/main.be6c0b75.css",
+    "main.js": "/NewBoard/static/js/main.bb7c342c.js",
+    "index.html": "/NewBoard/index.html",
+    "main.be6c0b75.css.map": "/NewBoard/static/css/main.be6c0b75.css.map",
+    "main.bb7c342c.js.map": "/NewBoard/static/js/main.bb7c342c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.be6c0b75.css",
+    "static/js/main.bb7c342c.js"
+  ]
+}
